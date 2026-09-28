@@ -1,0 +1,24 @@
+# COMSOL temporary and recovery files
+*.mph.lock
+*.mphbin
+*.recovery
+*.status
+*.log
+
+# SolidWorks temporary and backup files
+~$*
+*.sldprt~
+*.sldasm~
+*.slddrw~
+*.bak
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large COMSOL model files
+*.mph
