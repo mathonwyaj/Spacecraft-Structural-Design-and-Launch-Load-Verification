@@ -170,8 +170,6 @@ Spacecraft_Structural_Design
 │   ├── Combined_Load_Stress_Full_Range.png
 │   ├── Fine_Mesh_168747_Elements.png
 │   └── First_Buckling_Mode_Load_Factor_19.011.png
-├── Report
-│   └── Spacecraft_Structural_Launch_Load_Verification_Report.pdf
 ├── .gitignore
 └── README.md
 ```

@@ -22,3 +22,6 @@ Desktop.ini
 
 # Large COMSOL model files
 *.mph
+# Reports pending final review
+Report/*.pdf
+Report/*.docx
