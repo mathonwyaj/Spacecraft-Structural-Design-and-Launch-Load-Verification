@@ -5,12 +5,13 @@ Preliminary structural design and finite-element assessment of an aluminium spac
 The project combines SolidWorks CAD modelling with COMSOL Multiphysics analysis to investigate static strength, mesh convergence, combined axial and lateral loading, structural displacement and linear buckling.
 
 > This is a preliminary engineering study and does not represent formal spacecraft qualification or flight certification.
+> 
 
 ## Project objectives
 
 - Develop a simplified spacecraft primary-structure CAD model.
 - Apply representative axial and lateral launch loads.
-- investigate finite-element mesh convergence.
+- Investigate finite-element mesh convergence.
 - Separate mesh-sensitive corner stresses from representative structural stresses.
 - Estimate yield factors of safety.
 - Perform a linear eigenvalue buckling assessment.
@@ -162,7 +163,7 @@ Spacecraft_Structural_Design
 │   ├── SolidWorks part files
 │   └── SolidWorks assembly files
 ├── COMSOL
-│   └── Finite-element model
+└── README.md — model files excluded due to GitHub's file-size limit
 ├── Results
 │   ├── Combined_Load_Displacement.png
 │   ├── Combined_Load_Stress_Capped_150MPa.png
